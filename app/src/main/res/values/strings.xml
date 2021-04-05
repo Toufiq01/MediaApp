@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MediaApp</string>
+    <string name="wellcome_to_music">Wellcome to music</string>
+    <string name="button1">Play</string>
+    <string name="button2">Pause</string>
+    <string name="todo">image</string>
+    <string name="todo2">TODO</string>
+</resources>
